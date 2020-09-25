@@ -7,11 +7,11 @@ const int mod = 1e9 + 7;
 
 // --------------------------------------
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
-    // ---------Input and output---------
+  ios::sync_with_stdio(false);
+  cin.tie(0);
+  cout.tie(0);
+  // ---------Input and output---------
 
-    // ----------------------------------
-    return 0;
+  // ----------------------------------
+  return 0;
 }

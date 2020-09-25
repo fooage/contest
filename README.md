@@ -14,21 +14,21 @@ git clone https://github.com/fooage/contest.git
 
 ### Global definition
 
--   `mod`
+- `mod`
 
 This is a commonly used modulo variable, and the variable value is `1e9 + 7`.
 
--   `ll`
+- `ll`
 
 As a shorthand for the `long long` data type.
 
--   `ull`
+- `ull`
 
 In the same way, it is an abbreviation of `unsigned long long` to speed up encoding.
 
 ### Detail optimization
 
--   Optimized the speed of input and output
+- Optimized the speed of input and output
 
 ### Algorithm template
 
