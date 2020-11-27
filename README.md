@@ -1,5 +1,3 @@
-# Contest
-
 This is the usual `C++` code template, which adds the universal header file `<bits/stdc++.h>` and the namespace `std`. There are two parts left to fill in the code separately. I hope I can stick to it to the end!
 
 ## Installation
@@ -16,7 +14,7 @@ git clone https://github.com/fooage/contest.git
 
 - `mod`
 
-This is a commonly used modulo variable, and the variable value is `1e9 + 7`.
+This is a commonly used modulo variable, and the variable default value is `1e9 + 7`.
 
 - `ll`
 
