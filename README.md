@@ -28,6 +28,8 @@ In the same way, it is an abbreviation of `unsigned long long` to speed up encod
 
 - Optimized the speed of input and output
 
+- Use the `sync_with_stdio` should avoid mixing `prinf` and `cout`, same for `scanf` and `cin`
+
 ### Algorithm template
 
 Ready to add some basic algorithm templates, such as gcd, fast power and verification prime numbers, etc. These templates will be presented in the form of functions.
