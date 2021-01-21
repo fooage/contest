@@ -1,4 +1,4 @@
-This is the usual `C++` code template, which adds the universal header file `<bits/stdc++.h>` and the namespace `std`. There are two parts left to fill in the code separately. I hope I can stick to it to the end!
+This is the usual `C++` and `Go` code templates, which adds the universal header file `<bits/stdc++.h>` and the namespace `std`. There are two parts left to fill in the code separately. `Go` template is mainly used for leetcode, generally not used for ACM competitions.
 
 ## Installation
 
@@ -32,4 +32,4 @@ In the same way, it is an abbreviation of `unsigned long long` to speed up encod
 
 ### Algorithm template
 
-Ready to add some basic algorithm templates, such as gcd, fast power and verification prime numbers, etc. These templates will be presented in the form of functions.
+Ready to add some basic algorithm templates, such as gcd, fast power and verification prime numbers, etc. These templates will be presented on my blog <https://fooage.github.io/fooage/>!
