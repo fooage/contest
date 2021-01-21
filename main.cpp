@@ -4,6 +4,7 @@ typedef long long ll;
 typedef unsigned long long ull;
 const int mod = 1e9 + 7;
 const int inf = 0x7fffffff;
+
 // Never give up, keep going.
 
 int main() {
