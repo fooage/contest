@@ -7,6 +7,8 @@ const int inf = 0x7fffffff;
 
 // Never give up, keep going.
 
+void solve() {}
+
 int main() {
   ios::sync_with_stdio(false);
 

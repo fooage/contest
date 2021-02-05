@@ -1,4 +1,4 @@
-This is the usual `C++` and `Go` code templates, which adds the universal header file `<bits/stdc++.h>` and the namespace `std`. There are two parts left to fill in the code separately. `Go` template is mainly used for leetcode, generally not used for ACM competitions.
+This is the usual `C++` code template, which adds the universal header file `<bits/stdc++.h>` and the namespace `std`. There are two parts left to fill in the code separately. I hope I can stick to it to the end!
 
 ## Installation
 
