@@ -10,7 +10,7 @@ const int inf = 0x7fffffff;
 void solve() {}
 
 int main() {
-  ios::sync_with_stdio(false);
+    ios::sync_with_stdio(false);
 
-  return 0;
+    return 0;
 }
